@@ -24,3 +24,7 @@ header h1 {
  font-size: 25px
   }
 
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: brown;  }
