@@ -1,0 +1,26 @@
+/*Header background color*/
+header {
+  background-color: rgb(0, 0, 0);
+}
+
+/*color of background*/
+body {
+  background-color: bisque
+}
+
+/*Color of text "Aaron Clegg" also text design*/
+header h1 { 
+  margin: 0;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 50px;
+  padding: 0px;
+}
+
+/*Color of subheader "Software Developer" */
+  h2 {
+  color: white;
+ font-family: 'Abril Fatface', cursive;
+ font-size: 25px
+  }
+
